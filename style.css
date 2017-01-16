@@ -28,7 +28,10 @@ ul {
   margin: 2 auto;
   padding: 30;
 }
-
+a {
+  font-family: 'verdana', sans-serif;
+  color: #000;
+}
 .list {
   display: inline-block;
   background-color: rgba(255, 255, 255, 0.5);
