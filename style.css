@@ -1,12 +1,14 @@
 * {
-  border: 1px solid rgba(0, 0, 0, 0.3);
+  border: 0px solid rgba(0, 0, 0, 0.3);
 }
 
 h1 {
+  font-family: 'verdana', sans-serif;
   color: #0066ff
 }
 
 h2 {
+  font-family: 'verdana', sans-serif;
   color: #E4BB97;
 }
 
@@ -16,7 +18,13 @@ ul {
 
 }
 
-
+.list {
+  display: inline-block;
+  background-color: #C3C5C4;
+  padding: 10;
+  width: 60%;
+  margin: 8;
+}
 
 
 .html {
