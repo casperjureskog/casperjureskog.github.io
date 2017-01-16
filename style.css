@@ -13,4 +13,7 @@ ul {
 }
 .html {
   background-color: #05A8AA;
+  padding: 10;
+  weight: 250;
+  position: center;
 }
