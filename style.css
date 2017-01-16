@@ -5,23 +5,17 @@
 h1 {
   font-family: 'verdana', sans-serif;
   color: #74102E
-  padding: 2;
+  padding: 15;
 }
 
 h2 {
   font-family: 'verdana', sans-serif;
   color: #fff;
-  padding: 2;
+  padding: 20;
 }
 
 ul {
   margin: 2 auto;
-  padding: 2;
-
-}
-
-ul {
-
   padding: 30;
 }
 
