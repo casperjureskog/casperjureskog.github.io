@@ -14,7 +14,13 @@ ul {
 .html {
   background-color: #05A8AA;
   padding: 10;
-  width: 50%;
-  position: relative;
+  width: 200;
 
+
+}
+
+.css {
+  background-color: #05A92A;
+  padding: 10;
+  width: 200;
 }
