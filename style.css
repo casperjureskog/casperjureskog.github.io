@@ -1,3 +1,7 @@
+* {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
 h1 {
   color: #0066ff
 }
@@ -13,23 +17,26 @@ ul {
 }
 
 .list {
+  display: inline-block;
   background-color: #C3C5C4;
   padding: 10;
-  width: 200;
+  width: 60%;
   margin: 8;
 }
 
 
 .html {
+  display: inline-block;
   background-color: #05A8AA;
   padding: 10;
-  width: 300;
+  width: 80%;
 
 
 }
 
 .css {
+  display: inline-block;
   background-color: #74E2B3;
   padding: 10;
-  width: 300;
+  width: 80%
 }
