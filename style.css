@@ -15,7 +15,7 @@ ul {
 .list {
   background-color: #C3C5C4;
   padding: 10;
-  width: 300;
+  width: 200;
   margin: 8;
 }
 
@@ -23,7 +23,7 @@ ul {
 .html {
   background-color: #05A8AA;
   padding: 10;
-  width: 200;
+  width: 300;
 
 
 }
@@ -31,5 +31,5 @@ ul {
 .css {
   background-color: #74E2B3;
   padding: 10;
-  width: 200;
+  width: 300;
 }
