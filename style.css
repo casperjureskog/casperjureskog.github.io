@@ -5,11 +5,13 @@
 h1 {
   font-family: 'verdana', sans-serif;
   color: #74102E
+  padding: 2;
 }
 
 h2 {
   font-family: 'verdana', sans-serif;
   color: #fff;
+  padding: 2;
 }
 
 ul {
@@ -22,7 +24,7 @@ ul {
   display: inline-block;
   background-color: rgba(255, 255, 255, 0.5);
   padding: 10;
-  width: 60%;
+  width: 80%;
   margin: 8;
 }
 
@@ -31,7 +33,7 @@ ul {
   display: inline-block;
   background-color: #3E8489;
   padding: 10;
-  width: 70%;
+  width: 50%;
 
 
 }
@@ -40,5 +42,5 @@ ul {
   display: inline-block;
   background-color: #3E8964;
   padding: 10;
-  width: 70%
+  width: 50%
 }
