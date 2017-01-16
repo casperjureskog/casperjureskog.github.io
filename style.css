@@ -7,13 +7,14 @@ h2 {
 }
 
 ul {
-  margin: 0 auto;
-  padding: 0;
+  margin: 2 auto;
+  padding: 2;
 
 }
 .html {
   background-color: #05A8AA;
   padding: 10;
-  weight: 250;
-  position: center;
+  width: 50%;
+  position: relative;
+
 }
