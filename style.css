@@ -11,6 +11,15 @@ ul {
   padding: 2;
 
 }
+
+.list {
+  background-color: #C3C5C4;
+  padding: 10;
+  width: 300;
+  margin: 8;
+}
+
+
 .html {
   background-color: #05A8AA;
   padding: 10;
@@ -20,7 +29,7 @@ ul {
 }
 
 .css {
-  background-color: #05A92A;
+  background-color: #74E2B3;
   padding: 10;
   width: 200;
 }
