@@ -1,7 +1,7 @@
 
 h1 {
   font-family: 'verdana', sans-serif;
-  color: #74102E
+  color: #799999
   padding: 15;
   text-align: center;
 }
@@ -22,7 +22,7 @@ ul {
 .list {
   display: inline-block;
   background-color: rgba(255, 255, 255, 0.5);
-  padding: 10;
+  padding: 60;
   width: 80%;
   margin: 8;
 }
