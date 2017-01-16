@@ -4,12 +4,12 @@
 
 h1 {
   font-family: 'verdana', sans-serif;
-  color: #0066ff
+  color: #74102E
 }
 
 h2 {
   font-family: 'verdana', sans-serif;
-  color: #E4BB97;
+  color: #fff;
 }
 
 ul {
@@ -20,7 +20,7 @@ ul {
 
 .list {
   display: inline-block;
-  background-color: #C3C5C4;
+  background-color: rgba(255, 255, 255, 0.5);
   padding: 10;
   width: 60%;
   margin: 8;
@@ -29,16 +29,16 @@ ul {
 
 .html {
   display: inline-block;
-  background-color: #05A8AA;
+  background-color: #3E8489;
   padding: 10;
-  width: 80%;
+  width: 70%;
 
 
 }
 
 .css {
   display: inline-block;
-  background-color: #74E2B3;
+  background-color: #3E8964;
   padding: 10;
-  width: 80%
+  width: 70%
 }
