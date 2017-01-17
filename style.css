@@ -1,8 +1,8 @@
 
 h1 {
   font-family: 'verdana', sans-serif;
-  color: #888;
-  padding-left: 20px;
+  color: #fff;
+  padding-left: 30px;
 
 }
 
@@ -29,9 +29,33 @@ ul {
   padding: 30;
 }
 a {
+
   font-family: 'verdana', sans-serif;
-  color: #000;
+  color: #2F6D6D;
+  font-weight: bold;
+  }
+  h2:before {
+    display: block;
+    content: " ";
+    margin-top: -150px;
+    height: 150px;
+    visibility: hidden;
+  }
+
+.meny {
+
+  display: inline-block;
+  background-color: #000;
+  width: 80%;
+  min-height: 15%;
+  max-height: 15%;
+
+  position: fixed;
+top: 0;
+
+
 }
+
 .list {
   display: inline-block;
   background-color: rgba(255, 255, 255, 0.5);
@@ -41,12 +65,23 @@ a {
 
 }
 
+.top {
+  padding-top: 150px;
+  display: inline-block;
+}
 
+
+
+.li{
+  float: left;
+  padding: 10px 5px;
+}
 .html {
   display: inline-block;
   background-color: #3E8489;
-  padding: 10;
+  padding-top: 200;
   width: 50%;
+
 
 
 }
@@ -56,4 +91,5 @@ a {
   background-color: #3E8964;
   padding: 10;
   width: 50%
+
 }
